@@ -11,7 +11,7 @@ hr {
     padding: 0;
 }
 
-.myName {
+.myname {
     font-family: "Rock Salt", cursive;
     color: blue;
 }
@@ -86,7 +86,7 @@ h1 {
     text-align: right;
 }
 
-.textUPcase {
+.text-up-case {
     text-transform: uppercase;
 }
 
@@ -98,7 +98,7 @@ h1 {
     font-size: small;
 }
 
-.fontCenter {
+.font-center {
     text-align: center;
 }
 
@@ -116,7 +116,7 @@ a {
 }
 
 @media screen and (max-width:600px) {
-    toCenter {
+    .tocenter {
         width: 100vw;
         padding: 5px;
     }
