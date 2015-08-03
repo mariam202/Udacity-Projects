@@ -120,47 +120,47 @@ a {
         width: 100vw;
         padding: 5px;
     }
-    
+
     .pics {
         display: flex;
         flex-wrap: wrap;
     }
-    
+
     img {
         margin: auto;
     }
-    
+
     .pic1 {
         width: 100vw;
     }
-    
+
     .pic2 {
-        width:100vw;
+        width: 100vw;
     }
-    
+
     .pic3 {
-        width:100vw;
+        width: 100vw;
     }
 
 }
 
 @media screen and (min-width:601px) {
     .pic1 {
-        width:33.33%;
+        width: 33.33%;
     }
-    
+
     .pic2 {
-        width:33.33%;
+        width: 33.33%;
     }
-    
+
     .pic3 {
-        width:33.33%;
+        width: 33.33%;
     }
-    
+
     .container {
         width: 60em;
     }
-    
+
 }
 
 ul,
